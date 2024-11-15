@@ -1,0 +1,13 @@
+CREATE TABLE email1 (
+  EMAIL VARCHAR2(30) NOT NULL
+);
+
+
+INSERT INTO email1 (EMAIL) VALUES ('pranavgor6666@gmail.com');
+INSERT INTO email1 (EMAIL) VALUES ('pranavgor2004@gmail.com');
+INSERT INTO email1 (EMAIL) VALUES ('rickenparmar@gmail.com');
+INSERT INTO email1 (EMAIL) VALUES ('newpranavnews@gmail.com');
+INSERT INTO email1 (EMAIL) VALUES ('newpranavnews@gmail.com');
+INSERT INTO email1 (EMAIL) VALUES ('neelvasani02@gmail.com');
+INSERT INTO email1 (EMAIL) VALUES ('newpranavnews@gmail.com');
+INSERT INTO email1 (EMAIL) VALUES ('pranavgor7777@outlook.com');
